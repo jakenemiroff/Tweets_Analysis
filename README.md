@@ -1,4 +1,4 @@
-# Tweets-Analysis
+# Tweets Analysis
 
 This is a small back-end project written in python using a small subset of real tweets.
 
